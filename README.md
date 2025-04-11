@@ -60,9 +60,9 @@ Bevy is the platform that backs community.cncf.io. With over 190 ACTIVE chapters
 
 ## Naming your chapter
 
-Please use "Cloud Native CITY NAME" when naming your chapter. We ask that you avoid using "CNCF" in the naming convention, as it can misslead people into think CNCF has employees in that location. You may, however, use a tag line that states something similar to, "An official CNCF community group (or chapter)."
+Please use "Cloud Native CITY NAME" when naming your chapter. We ask that you avoid using "CNCF" in the naming convention, as it can mislead people into think CNCF has employees in that location. You may, however, use a tag line that states something similar to, "An official CNCF community group (or chapter)."
 
-"CNCG" is an internal acronym we currenyly use at CNCF and among organizers, but it has not yet gained traction. So we encourage people to avoid using it in the names of their chapters, as of 2023.
+"CNCG" is an internal acronym we currently use at CNCF and among organizers, but it has not yet gained traction. So we encourage people to avoid using it in the names of their chapters, as of 2023.
 
 ## Communication
 
@@ -98,7 +98,7 @@ This is acceptable, as long as it is a general tech community or open source com
 
 ## Community Group Inactivity
 
-If your group has more than 90 days of inactivity in the number of events/meetups being heald, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/). There are many ways to keep your chapter active outside of regular in-person, speaker-to-audience meetups. Examples are:
+If your group has more than 90 days of inactivity in the number of events/meetups being held, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/). There are many ways to keep your chapter active outside of regular in-person, speaker-to-audience meetups. Examples are:
 * Co-hosting a meetup with a neighboring chapter. [Learn about the Co-Host feature in Bevy](https://youtu.be/rEKoZ5OAGpo).
 * Host a study group for one of the many Kubernetes certifications
 * Use Bevy's virtual feature to host a virtual meetup or study group
